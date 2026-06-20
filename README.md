@@ -25,15 +25,14 @@ No solo escribo código; analizo su comportamiento bajo presión. Como investiga
 
 #### 🛡️ Ciberseguridad, Forense & Entornos
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=portswigger&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-252525?style=for-the-badge&logo=ghidra&logoColor=8cc84b)
+![Autopsy](https://img.shields.io/badge/Autopsy-7A4F9E?style=for-the-badge&logo=data-analysis&logoColor=white)
+![FTK Imager](https://img.shields.io/badge/FTK%20Imager-005B94?style=for-the-badge&logo=digital-forensics&logoColor=white)
 
 ---
 
 ### 🔧 Especificaciones de Entorno
-* **Sistemas:** GNU/Linux Avanzado (Debian/Ubuntu/Kali) y entornos de triage aislados.
-* **Forense:** Autopsy, Volatility, Análisis de Logs y preservación de evidencia digital.
+* **Sistemas:** GNU/Linux Avanzado (Debian/Ubuntu) y entornos de triage/análisis aislados.
+* **Forense e Ingeniería Inversa:** Análisis estático y dinámico de ejecutables, preservación de evidencia digital y reconstrucción de artefactos.
 * **Hardware:** Auditoría de protocolos de comunicación y control de hardware de bajo nivel.
