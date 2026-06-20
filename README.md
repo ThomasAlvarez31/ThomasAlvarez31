@@ -8,18 +8,32 @@ No solo escribo código; analizo su comportamiento bajo presión. Como investiga
 
 ### 🗂️ Áreas de Investigación
 
-*   **🕵️‍♂️ Análisis Forense:** Preservación de evidencia digital, análisis de memoria volátil y recuperación de artefactos en sistemas comprometidos.
-*   **💥 Hacking Ético & Auditoría:** Evaluación de seguridad ofensiva, análisis de protocolos de comunicación y desarrollo de exploits educativos.
-*   **🛡️ Arquitectura Segura:** Creación de microservicios backend blindados y automatización de tareas críticas mediante scripting en Linux.
+* **🕵️‍♂️ Análisis Forense:** Preservación de evidencia digital, análisis de memoria volátil y recuperación de artefactos en sistemas comprometidos.
+* **💥 Hacking Ético & Auditoría:** Evaluación de seguridad ofensiva, análisis de protocolos de comunicación y desarrollo de exploits educativos.
+* **🛡️ Arquitectura Segura:** Creación de microservicios backend blindados y automatización de tareas críticas mediante scripting en Linux.
 
 ---
 
-### 🔧 Especificaciones Técnicas
+### 🛠️ Herramientas & Arsenal (Tools of the Trade)
 
-| Módulo | Componentes |
-| :--- | :--- |
-| **Sistemas Operativos** | Debian GNU/Linux, Ubuntu, Kali |
-| **Forense & Auditoría** | Autopsy, Análisis de Logs, Triage de Sistemas, Hardware Audit |
-| **Desarrollo** | Java (Spring Boot), Kotlin (Jetpack Compose), C#, Bash Scripting |
+#### 💻 Lenguajes de Control & Scripting
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-%23005A9C.svg?style=for-the-badge&logo=assembly&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+#### 🛡️ Ciberseguridad, Forense & Entornos
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=portswigger&logoColor=white)
 
 ---
+
+### 🔧 Especificaciones de Entorno
+* **Sistemas:** GNU/Linux Avanzado (Debian/Ubuntu/Kali) y entornos de triage aislados.
+* **Forense:** Autopsy, Volatility, Análisis de Logs y preservación de evidencia digital.
+* **Hardware:** Auditoría de protocolos de comunicación y control de hardware de bajo nivel.
