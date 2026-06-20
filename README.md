@@ -26,9 +26,9 @@ No solo escribo código; analizo su comportamiento bajo presión. Como investiga
 #### 🛡️ Ciberseguridad, Forense & Entornos
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=portswigger&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-252525?style=for-the-badge&logo=ghidra&logoColor=8cc84b)
-![Autopsy](https://img.shields.io/badge/Autopsy-7A4F9E?style=for-the-badge&logo=data-analysis&logoColor=white)
-![FTK Imager](https://img.shields.io/badge/FTK%20Imager-005B94?style=for-the-badge&logo=digital-forensics&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-252525?style=for-the-badge&logo=securitymetrics&logoColor=8cc84b)
+![Autopsy](https://img.shields.io/badge/Autopsy-7A4F9E?style=for-the-badge&logo=privateinternetaccess&logoColor=white)
+![FTK Imager](https://img.shields.io/badge/FTK%20Imager-005B94?style=for-the-badge&logo=serverfault&logoColor=white)
 
 ---
 
